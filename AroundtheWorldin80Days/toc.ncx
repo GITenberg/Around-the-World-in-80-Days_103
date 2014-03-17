@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="de2f7f69-a58e-440c-abeb-b8f970e01d16" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.24)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Around the World in 80 Days</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="3b5fc052-ab9e-4184-92f6-0193eb821279" playOrder="1">
+      <navLabel>
+        <text>I. In Which Phileas Fogg and Passepartout Accept Each Other, the One As Master, the Other As Man</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_2.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1955b300-4d04-466f-b1c8-8bdfcb33ecbb" playOrder="2">
+      <navLabel>
+        <text>II. In Which Passepartout Is Convinced That He Has At Last Found His Ideal</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_3.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e5cd2e67-cefc-4acf-b08c-9c7e68d19939" playOrder="3">
+      <navLabel>
+        <text>III. In Which A Conversation Takes Place Which Seems Likely To Cost Phileas Fogg Dear</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_4.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f81eecce-348a-4af0-9bfd-65b7b5e3aced" playOrder="4">
+      <navLabel>
+        <text>IV. In Which Phileas Fogg Astounds Passepartout, His Servant</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_5.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d5732f84-3640-4579-bb63-b60bc4bca223" playOrder="5">
+      <navLabel>
+        <text>V. In Which A New Species Of Funds, Unknown To The Moneyed Men, Appears On 'Change</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_6.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="3f3ff0e5-c04c-4354-831f-8c811cfb56b3" playOrder="6">
+      <navLabel>
+        <text>VI. In Which Fix, the Detective, Betrays a Very Natural Impatience</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_7.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f6b4e4c8-ba6b-42b7-b5ed-260554825659" playOrder="7">
+      <navLabel>
+        <text>VII. Which Once More Demonstrates the Uselessness of Passports As Aids To Detectives</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_8.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="807f8f08-17b7-48ea-9875-faa7d6561123" playOrder="8">
+      <navLabel>
+        <text>VIII. In Which Passepartout Talks Rather More, Perhaps, Than Is Prudent</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_9.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5a2e556d-f087-46ef-be93-59c29c99a3c9" playOrder="9">
+      <navLabel>
+        <text>IX. In Which the Red Sea and the Indian Ocean Prove Propitious To the Designs of Phileas Fogg</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_10.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="42131ab0-50ec-47c0-9d50-053b0593b201" playOrder="10">
+      <navLabel>
+        <text>X. In Which Passepartout Is Only Too Glad To Get Off With the Loss of His Shoes</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_11.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="443c3853-a47c-4ac2-ad1d-84db5daca41d" playOrder="11">
+      <navLabel>
+        <text>XI. In Which Phileas Fogg Secures a Curious Means of Conveyance at a Fabulous Price</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_12.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a8b0fd08-6e85-4a8d-9ab6-3baf113136fb" playOrder="12">
+      <navLabel>
+        <text>XII. In Which Phileas Fogg and His Companions Venture Across the Indian Forests, and What Ensued</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_13.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d5487a04-b34d-4c21-aee3-b23d018cdece" playOrder="13">
+      <navLabel>
+        <text>XIII. In Which Passepartout Receives a New Proof That Fortune Favours the Brave</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_14.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="71c353fc-3234-4f12-97bb-50b213a6e9c8" playOrder="14">
+      <navLabel>
+        <text>XIV. In Which Phileas Fogg Descends the Whole Length of the Beautiful Valley of the Ganges Without Ever Thinking of Seeing It</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_15.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="878713b7-1e61-40fa-8cc5-ce3f57ee1002" playOrder="15">
+      <navLabel>
+        <text>XV.In Which the Bag of Banknotes Disgorges Some Thousands of Pounds More</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_16.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1e8444a7-db1e-4bd0-b251-71e6d6f96c99" playOrder="16">
+      <navLabel>
+        <text>XVI. In Which Fix Does Not Seem To Understand In the Least What Is Said To Him</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_17.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8eacb7eb-e374-4e53-a95e-1345f3120405" playOrder="17">
+      <navLabel>
+        <text>XVII. Showing What Happened On the Voyage From Singapore To Hong Kong</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_18.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="bddb1faa-0e19-4796-aab0-664732a09abe" playOrder="18">
+      <navLabel>
+        <text>XVIII. In Which Phileas Fogg, Passepartout, and Fix Go Each About His Business</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_19.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ec81f8b6-dc15-4ceb-ad3e-0439a90fad42" playOrder="19">
+      <navLabel>
+        <text>XIX. In Which Passepartout Takes a Too Great Interest In His Master, and What Comes of It</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_20.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1d1d63e1-541b-4da4-b066-541c748dad8f" playOrder="20">
+      <navLabel>
+        <text>XX. In Which Fix Comes Face To Face With Phileas Fogg</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_21.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c906d483-7eaf-4e60-9881-d8637221c218" playOrder="21">
+      <navLabel>
+        <text>XXI. In Which The Master of the "Tankadere" Runs Great Risk of Losing a Reward of Two Hundred Pounds</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_22.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="750c2bfe-5199-4fc2-a156-bc3c0422c273" playOrder="22">
+      <navLabel>
+        <text>XXII. In Which Passepartout Finds Out That, Even at the Antipodes, It is Convenient To Have Some Money In One's Pocket</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_23.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8c37c95a-239a-4834-a752-fb568f13392d" playOrder="23">
+      <navLabel>
+        <text>XXIII. In Which Passepartout's Nose Becomes Outrageously Long</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_24.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1f5cced6-a28f-47f5-a7bb-88bc14b09f8c" playOrder="24">
+      <navLabel>
+        <text>XXIV. During Which Mr. Fogg and Party Cross the Pacific Ocean</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_25.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ba2752a6-3df7-43bc-a2e7-2b351a5e8afa" playOrder="25">
+      <navLabel>
+        <text>XXV. In Which a Slight Glimpse Is Had of San Francisco</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_26.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="924b6c7d-2f32-44ae-ac43-a3b84477635c" playOrder="26">
+      <navLabel>
+        <text>XXVI. In Which Phileas Fogg and Party Travel By the Pacific Railroad</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_27.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="84d3eb5c-3064-4349-80d9-8dc9e1af02f3" playOrder="27">
+      <navLabel>
+        <text>XXVII. In Which Passepartout Undergoes, at a Speed of Twenty Miles an Hour, a Course of Mormon History</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_28.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="944c38d2-b672-4d40-b2c2-b151a7fcb28a" playOrder="28">
+      <navLabel>
+        <text>XXVIII. In Which Passepartout Does Not Succeed In Making Anybody Listen To Reason</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_29.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c4ed90f3-7442-4721-b9fb-2aaa938bb7a5" playOrder="29">
+      <navLabel>
+        <text>XXIX. In Which Certain Incidents Are Narrated Which Are Only To Be Met With On American Railroads</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_30.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="627d49c6-c953-4222-bc42-882f60ec6960" playOrder="30">
+      <navLabel>
+        <text>XXX. In Which Phileas Fogg Simply Does His Duty</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_31.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="acab0d69-7f74-40e8-ae80-c5c5faee35c6" playOrder="31">
+      <navLabel>
+        <text>XXXI. In Which Fix, The Detective, Considerably Furthers the Interests of Phileas Fogg</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_32.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="565144f9-b900-4346-a2a4-3a39a6a269fe" playOrder="32">
+      <navLabel>
+        <text>XXXII. In Which Phileas Fogg Engages In a Direct Struggle With Bad Fortune</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_33.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0031d6fa-a6bc-415c-934d-de75790b3cc8" playOrder="33">
+      <navLabel>
+        <text>XXXIII. In Which Phileas Fogg Shows Himself Equal To the Occasion</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_34.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f157cb22-4520-4e8d-815a-b579d09be2e8" playOrder="34">
+      <navLabel>
+        <text>XXXIV. In Which Phileas Fogg At Last Reaches London</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_35.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="58fd1699-e101-46e8-9bcd-1a23fc270701" playOrder="35">
+      <navLabel>
+        <text>XXXV. In Which Phileas Fogg Does Not Have To Repeat His Orders To Passepartout Twice</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_36.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b7adf7ce-1897-47f1-acbd-8ea66e83ef34" playOrder="36">
+      <navLabel>
+        <text>XXXVI. In Which Phileas Fogg's Name Is Once More at a Premium On 'Change</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_37.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b7ddd81a-07e0-4e64-bb0f-f00bbc300bcf" playOrder="37">
+      <navLabel>
+        <text>XXXVII. In Which It Is Shown That Phileas Fogg Gained Nothing By His Tour Around the World, Unless It Were Happiness</text>
+      </navLabel>
+      <content src="Around_the_World_In_80_Days_split_38.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
