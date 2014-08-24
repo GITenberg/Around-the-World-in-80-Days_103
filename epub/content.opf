@@ -1,0 +1,110 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:rating" content="0"/>
+    <meta name="calibre:series_index" content="1"/>
+    <dc:language>UND</dc:language>
+    <meta name="calibre:timestamp" content="2010-02-13T23:00:00"/>
+    <dc:title>Around the World in 80 Days</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-02-13T23:00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.6.24) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">de2f7f69-a58e-440c-abeb-b8f970e01d16</dc:identifier>
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Verne, Jules</dc:creator>
+<dc:identifier opf:scheme="ISBN"></dc:identifier>
+<dc:subject>Action &amp; Adventure</dc:subject>
+<dc:description></dc:description>
+</metadata>
+  <manifest>
+    <item href="Around_the_World_In_80_Days_split_11.html" id="id128" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_0.html" id="id139" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_5.html" id="id134" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_33.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_9.html" id="id130" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_18.html" id="id121" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_31.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_16.html" id="id123" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_26.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_34.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Around_the_World_In_80_Days_split_24.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_13.html" id="id126" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_3.html" id="id136" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_30.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_35.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_28.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_29.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_1.html" id="id138" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_23.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_14.html" id="id125" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_32.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_17.html" id="id122" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_15.html" id="id124" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_2.html" id="id137" media-type="application/xhtml+xml"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Around_the_World_In_80_Days_split_25.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_10.html" id="id129" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_22.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_37.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_12.html" id="id127" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_38.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_7.html" id="id132" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_27.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_6.html" id="id133" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_36.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_8.html" id="id131" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_20.html" id="id119" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_4.html" id="id135" media-type="application/xhtml+xml"/>
+    <item href="Around_the_World_In_80_Days_split_21.html" id="id118" media-type="application/xhtml+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Around_the_World_In_80_Days_split_19.html" id="id120" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id139"/>
+    <itemref idref="id138"/>
+    <itemref idref="id137"/>
+    <itemref idref="id136"/>
+    <itemref idref="id135"/>
+    <itemref idref="id134"/>
+    <itemref idref="id133"/>
+    <itemref idref="id132"/>
+    <itemref idref="id131"/>
+    <itemref idref="id130"/>
+    <itemref idref="id129"/>
+    <itemref idref="id128"/>
+    <itemref idref="id127"/>
+    <itemref idref="id126"/>
+    <itemref idref="id125"/>
+    <itemref idref="id124"/>
+    <itemref idref="id123"/>
+    <itemref idref="id122"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Around_the_World_In_80_Days_split_1.html#filepos802" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
