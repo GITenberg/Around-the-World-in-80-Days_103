@@ -1,0 +1,104 @@
+_repo: Around-the-World-in-Eighty-Days_103
+_version: 0.0.1
+alternative_title: Around the World in 80 Days
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: "Around the World in Eighty Days (French: Le tour du monde en quatre-vingts\
+  \ jours) is a classic adventure novel by the French writer Jules Verne, published\
+  \ in 1873. In the story, Phileas Fogg of London and his newly employed French valet\
+  \ Passepartout attempt to circumnavigate the world in 80 days on a £20,000 wager\
+  \ (£7,578,192.00 today) set by his friends at the Reform Club. It is one of Verne's\
+  \ most acclaimed works.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Adventure
+- Movie Books
+gutenberg_issued: '1994-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '103'
+  wikidata: Q1219561
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+- !lcsh 'Voyages around the world -- Fiction'
+- GITenberg
+title: Around the World in Eighty Days
+url: http://www.gutenberg.org/ebooks/103
+wikipedia:
+- https://sv.wikisource.org/wiki/Jorden_rundt_p%C3%A5_%C3%A5ttio_dagar
+- https://fi.wikipedia.org/wiki/Maailman_ymp%C3%A4ri_80_p%C3%A4iv%C3%A4ss%C3%A4
+- https://pl.wikisource.org/wiki/W_osiemdziesi%C4%85t_dni_dooko%C5%82a_%C5%9Bwiata
+- https://sl.wikipedia.org/wiki/V_osemdesetih_dneh_okoli_sveta
+- https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%BE_%D1%81%D0%B2%D1%96%D1%82%D1%83_%D0%B7%D0%B0_%D0%B2%D1%96%D1%81%D1%96%D0%BC%D0%B4%D0%B5%D1%81%D1%8F%D1%82_%D0%B4%D0%BD%D1%96%D0%B2
+- https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1_%D8%AF%D9%86%DB%8C%D8%A7_%D8%AF%D8%B1_%D9%87%D8%B4%D8%AA%D8%A7%D8%AF_%D8%B1%D9%88%D8%B2
+- https://ru.wikisource.org/wiki/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B7%D0%B0_%D0%B2%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82_%D0%B4%D0%BD%D0%B5%D0%B9_(%D0%96%D1%8E%D0%BB%D1%8C_%D0%92%D0%B5%D1%80%D0%BD)
+- https://vi.wikipedia.org/wiki/V%C3%B2ng_quanh_th%E1%BA%BF_gi%E1%BB%9Bi_trong_80_ng%C3%A0y
+- https://en.wikisource.org/wiki/Around_the_World_in_Eighty_Days
+- https://hy.wikipedia.org/wiki/%D4%B1%D5%B7%D5%AD%D5%A1%D6%80%D5%B0%D5%AB_%D5%B7%D5%B8%D6%82%D6%80%D5%BB%D5%A8_80_%D6%85%D6%80%D5%B8%D6%82%D5%B4
+- https://ms.wikipedia.org/wiki/Mengelilingi_Dunia_dalam_Lapan_Puluh_Hari
+- https://el.wikipedia.org/wiki/%CE%9F_%CE%B3%CF%8D%CF%81%CE%BF%CF%82_%CF%84%CE%BF%CF%85_%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%85_%CF%83%CE%B5_80_%CE%B7%CE%BC%CE%AD%CF%81%CE%B5%CF%82
+- https://az.wikipedia.org/wiki/80_g%C3%BCn_d%C3%BCnya_%C9%99traf%C4%B1nda
+- https://fr.wikisource.org/wiki/Le_Tour_du_monde_en_quatre-vingts_jours
+- https://sk.wikipedia.org/wiki/Cesta_okolo_sveta_za_80_dn%C3%AD
+- https://sv.wikipedia.org/wiki/Jorden_runt_p%C3%A5_80_dagar
+- https://pt.wikisource.org/wiki/A_Volta_ao_Mundo_em_Oitenta_Dias
+- https://ja.wikipedia.org/wiki/%E5%85%AB%E5%8D%81%E6%97%A5%E9%96%93%E4%B8%96%E7%95%8C%E4%B8%80%E5%91%A8
+- https://pt.wikipedia.org/wiki/A_Volta_ao_Mundo_em_80_Dias
+- https://sr.wikipedia.org/wiki/%D0%9F%D1%83%D1%82_%D0%BE%D0%BA%D0%BE_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B7%D0%B0_%D0%BE%D1%81%D0%B0%D0%BC%D0%B4%D0%B5%D1%81%D0%B5%D1%82_%D0%B4%D0%B0%D0%BD%D0%B0
+- https://es.wikipedia.org/wiki/La_vuelta_al_mundo_en_ochenta_d%C3%ADas
+- https://id.wikisource.org/wiki/Mengelilingi_Doenia_Dalam_80_Hari
+- https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days
+- https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B7%D0%B0_80_%D0%B4%D0%BD%D0%B5%D0%B9
+- https://jv.wikipedia.org/wiki/Hikayat_Phileas_Fogg
+- https://ro.wikipedia.org/wiki/Ocolul_P%C4%83m%C3%A2ntului_%C3%AEn_80_de_zile
+- https://ko.wikipedia.org/wiki/80%EC%9D%BC%EA%B0%84%EC%9D%98_%EC%84%B8%EA%B3%84_%EC%9D%BC%EC%A3%BC
+- https://et.wikipedia.org/wiki/80_p%C3%A4evaga_%C3%BCmber_maailma
+- https://fr.wikipedia.org/wiki/Le_Tour_du_monde_en_quatre-vingts_jours
+- https://zh.wikipedia.org/wiki/%E7%92%B0%E9%81%8A%E4%B8%96%E7%95%8C%E5%85%AB%E5%8D%81%E5%A4%A9
+- https://no.wikipedia.org/wiki/Jorden_rundt_p%C3%A5_80_dager
+- https://pl.wikipedia.org/wiki/W_osiemdziesi%C4%85t_dni_dooko%C5%82a_%C5%9Bwiata
+- https://da.wikipedia.org/wiki/Jorden_rundt_i_80_dage
+- https://simple.wikipedia.org/wiki/Around_the_World_in_Eighty_Days
+- https://fy.wikipedia.org/wiki/In_Wr%C3%A2ldreis_yn_Tachtich_Dagen
+- https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85_%D9%81%D9%8A_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86_%D9%8A%D9%88%D9%85%D8%A7
+- https://ru.wikiquote.org/wiki/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B2_%D0%B2%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82_%D0%B4%D0%BD%D0%B5%D0%B9
+- https://th.wikipedia.org/wiki/80_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%A5%E0%B8%81
+- https://af.wikipedia.org/wiki/Om_die_w%C3%AAreld_in_80_dae
+- https://sq.wikipedia.org/wiki/Rreth_bot%C3%ABs_p%C3%ABr_80_dit%C3%AB
+- https://hu.wikipedia.org/wiki/Nyolcvan_nap_alatt_a_F%C3%B6ld_k%C3%B6r%C3%BCl_(reg%C3%A9ny)
+- https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82_%D0%BE%D0%BA%D0%BE%D0%BB%D1%83_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D1%82_%D0%B7%D0%B0_80_%D0%B4%D0%B5%D0%BD%D0%B0
+- https://yi.wikipedia.org/wiki/%D7%90%D7%A8%D7%95%D7%9D_%D7%93%D7%99_%D7%95%D7%95%D7%A2%D7%9C%D7%98_%D7%90%D7%99%D7%9F_80_%D7%98%D7%A2%D7%92
+- https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%97%E1%83%AE%E1%83%9B%E1%83%9D%E1%83%AA%E1%83%98_%E1%83%93%E1%83%A6%E1%83%94_%E1%83%93%E1%83%94%E1%83%93%E1%83%90%E1%83%9B%E1%83%98%E1%83%AC%E1%83%98%E1%83%A1_%E1%83%92%E1%83%90%E1%83%A0%E1%83%A8%E1%83%94%E1%83%9B%E1%83%9D
+- https://es.wikisource.org/wiki/La_vuelta_al_mundo_en_80_d%C3%ADas
+- https://nl.wikipedia.org/wiki/De_reis_om_de_wereld_in_tachtig_dagen
+- https://id.wikipedia.org/wiki/Mengelilingi_Dunia_Dalam_80_Hari
+- https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%A1_%E0%A4%A6_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A5%8D%E0%A4%A1_%E0%A4%87%E0%A4%A8_%E0%A4%8F%E0%A4%9F%E0%A5%80_%E0%A4%A1%E0%A5%87%E0%A4%9D
+- https://cs.wikipedia.org/wiki/Cesta_kolem_sv%C4%9Bta_za_osmdes%C3%A1t_dn%C3%AD
+- https://de.wikipedia.org/wiki/Reise_um_die_Erde_in_80_Tagen
+- https://en.wikivoyage.org/wiki/Around_the_World_in_Eighty_Days
+- https://lv.wikipedia.org/wiki/Asto%C5%86desmit_dien%C4%81s_ap_zemeslodi
+- https://eu.wikipedia.org/wiki/Munduari_bira_80_egunetan
+- https://bg.wikipedia.org/wiki/%D0%9E%D0%BA%D0%BE%D0%BB%D0%BE_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B7%D0%B0_80_%D0%B4%D0%BD%D0%B8
+- https://it.wikipedia.org/wiki/Il_giro_del_mondo_in_80_giorni
+- https://la.wikipedia.org/wiki/Le_tour_du_monde_en_quatre-vingts_jours
+- https://ca.wikipedia.org/wiki/La_volta_al_m%C3%B3n_en_vuitanta_dies
+- https://tr.wikipedia.org/wiki/Seksen_G%C3%BCnde_Devr-i_%C3%82lem
+- https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%91%D7%99%D7%91_%D7%9C%D7%A2%D7%95%D7%9C%D7%9D_%D7%91%D7%A9%D7%9E%D7%95%D7%A0%D7%99%D7%9D_%D7%99%D7%95%D7%9D
