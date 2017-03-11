@@ -1,6 +1,9 @@
 _repo: Around-the-World-in-80-Days_103
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Around the World in 80 Days
+covers:
+- cover_type: archival
+  image_path: epub/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -22,6 +25,8 @@ description: "Around the World in Eighty Days (French: Le tour du monde en quatr
   \ Passepartout attempt to circumnavigate the world in 80 days on a £20,000 wager\
   \ (£7,578,192.00 today) set by his friends at the Reform Club. It is one of Verne's\
   \ most acclaimed works.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/103#Around-the-World-in-80-Days
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Adventure
